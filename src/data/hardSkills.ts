@@ -8,12 +8,12 @@ const hardSkills: HardSkill[] = [
   {
     name: "Networking",
     description: "I have a strong background in networking and system administration",
-    icon: "astro_dark"
+    icon: "network"
   },
   {
     name: "SysAdmin",
     description: "I love to automate everything, from servers to configuration on computers",
-    icon: "nextjs_icon_dark"
+    icon: "computer"
   },
   {
     name: "Web Development",
@@ -23,7 +23,7 @@ const hardSkills: HardSkill[] = [
   {
     name: "MySQL",
     description: "My favorite database",
-    icon: "mongodb"
+    icon: "mysql"
   }
 ];
 
